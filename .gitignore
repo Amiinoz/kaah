@@ -1,5 +1,6 @@
 # Environment Configuration
 .env
+/.env.example
 
 # Dependency directory
 node_modules
