@@ -16,10 +16,10 @@ Build react app using shopify cli
 * [x] install the CLI
   * $ brew tap shopify/shopify
   * $ brew install shopify-cli
-* * [x] install node
-* * [x] Create ngrok account
+  * [x] install node
+  * [x] Create ngrok account
       * Shopify ClI uses ngrok to create secure tunnel from public internet to your local development
-* * [x] checkout CLI core commands
+ * [x] checkout CLI core commands
       * help
       * connect
       * create
@@ -34,9 +34,9 @@ Build react app using shopify cli
   * [x] to install and start using press url.......
   * [x] press install unlisted app
     * [x] embedding the app to the shopify admin - creates very pleasant and easy to use user experience.
-    *  ## Front-end
+   ## Front-end
 *  [x] open project with code
-*  [ ] /pages/index,js add button
+*  [ ] /pages/index.js add button
 
 ## Back-end
 * []
