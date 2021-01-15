@@ -36,7 +36,7 @@ Build react app using shopify cli
   - [x] to install and start using press url.......
   - [x] press install unlisted app
     - [x] embedding the app to the shopify admin - creates very pleasant and easy to use user experience.
-  ## Front-end
+
   # Building a UI with Polaris
 - [x] open project with code
 - [x] /pages/index.js add button
@@ -53,41 +53,15 @@ Build react app using shopify cli
 - [x] convert index.js to class
 - [x] Add ResourcePicker
 - [x] Restart server ( shopify serve)
-- [x] pkill -f node( to reset server)
-- []
-- []
+-   * pkill -f node( to reset server)
+- [x] Add open, onCancel and onSelection
+- [x] Add onSelectionHandle function
+- [x] use map to create the product ID's
 
-## Back-end
-
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-
-## Deploy
-
-- ✅
-- [ ]
-- [ ]
-- ✅
-- [ ]
-- [ ]
-- ✅
-  - [ ]
-  - [ ]
 
 ## Improvements
 
 - []
-- []
-- []
-
-## More?
-
 - []
 - []
 
